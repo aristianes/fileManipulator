@@ -1,0 +1,2 @@
+This is exemple, to write something in a file.
+We are to write on this file.
